@@ -1,3 +1,4 @@
+斯玛特,#genre#
 TVB Jade,http://192.168.2.2:8080/stv.php?id=Tvbjade
 TVB Asia,http://192.168.2.2:8080/stv.php?id=Tvbasia
 TVB Entertainment,http://192.168.2.2:8080/stv.php?id=Tvbentertainment
