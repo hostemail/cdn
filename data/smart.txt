@@ -554,4 +554,4 @@ BSフジ BS Fuji,id=bsfuji_japan
 CNA Japan,id=cna_japan  
 BS-TBS,id=bstbs_japan  
 NHK Oaska,id=nhkosaka_japan  
-NHK World,id=nhkworld_japan 
+NHK World,id=nhkworld_japan  
