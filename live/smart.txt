@@ -1,16 +1,3 @@
-香港频道,#genre#
-翡翠台,http://10.10.10.5:1228/stv.php?id=jade_twn
-翡翠台,http://10.10.10.5:1228/stv.php?id=Jade_xue
-iNews 新闻台,http://10.10.10.5:1228/stv.php?id=inews_twn
-J 2,http://10.10.10.5:1228/stv.php?id=j2_twn
-珍珠台,http://10.10.10.5:1228/stv.php?id=pearl_twn
-凤凰香港,http://10.10.10.5:1228/stv.php?id=hkphoenix_twn
-HOY资讯台,http://10.10.10.5:1228/stv.php?id=hoycaijing_twn
-RHK 31,http://10.10.10.5:1228/stv.php?id=rhk31_twn
-viutv,http://10.10.10.5:1228/stv.php?id=viu1_twn
-RHK 32,http://10.10.10.5:1228/stv.php?id=rhk32_twn
-凤凰资讯,http://10.10.10.5:1228/stv.php?id=phoenixinfo_hd
-viutv6,http://10.10.10.5:1228/stv.php?id=viusix_twn
 央视频道,#genre#
 CCTV-1 综合频道 HD,http://10.10.10.5:1228/stv.php?id=cctv1
 CCTV-2 财经频道,http://10.10.10.5:1228/stv.php?id=cctv2
@@ -29,51 +16,21 @@ CCTV-12 社会与法,http://10.10.10.5:1228/stv.php?id=cctv12
 CCTV-13 新闻频道,http://10.10.10.5:1228/stv.php?id=cctv13
 CCTV-14 少儿频道,http://10.10.10.5:1228/stv.php?id=cctv14
 CCTV-15 音乐频道,http://10.10.10.5:1228/stv.php?id=cctv15
-体育频道,#genre#
-Astro Premier League 1,http://10.10.10.5:1228/stv.php?id=go_assp1
-Astro EPL 1,http://10.10.10.5:1228/stv.php?id=go_assp1x
-Astro Premier League 2,http://10.10.10.5:1228/stv.php?id=go_assp2
-Astro Grandstand,http://10.10.10.5:1228/stv.php?id=go_assp3
-Astro Football,http://10.10.10.5:1228/stv.php?id=go_assp4
-Astro Sports Plus,http://10.10.10.5:1228/stv.php?id=go_sportsplus
-Astro Badminton 1,http://10.10.10.5:1228/stv.php?id=go_badminton1
-Astro Badminton 2,http://10.10.10.5:1228/stv.php?id=go_badminton2
-Astro W-Sports,http://10.10.10.5:1228/stv.php?id=go_assp5
-Supersports 1,http://10.10.10.5:1228/stv.php?id=Assp1
-Supersports 2,http://10.10.10.5:1228/stv.php?id=Assp2
-Supersports 3,http://10.10.10.5:1228/stv.php?id=Assp3
-Supersports 4,http://10.10.10.5:1228/stv.php?id=Assp4
-WWE,http://10.10.10.5:1228/stv.php?id=Wwe
-Fight Sports,http://10.10.10.5:1228/stv.php?id=Fs
-NBA TV,http://10.10.10.5:1228/stv.php?id=Nba
-Astro Cricket,http://10.10.10.5:1228/stv.php?id=Acricket
-Astro Golf,http://10.10.10.5:1228/stv.php?id=Agolf
-Tnt Sports 1,http://10.10.10.5:1228/stv.php?id=6fac0aaead
-TNT Sports 2,http://10.10.10.5:1228/stv.php?id=d9a76a79cc
-TNT Sports 3,http://10.10.10.5:1228/stv.php?id=5fea4d73db
-TNT Sports 4,http://10.10.10.5:1228/stv.php?id=tntsport4
-Sony Ten 1,http://10.10.10.5:1228/stv.php?id=ten1_raj
-Sony Ten 2,http://10.10.10.5:1228/stv.php?id=ten2_raj
-Sony Ten 3,http://10.10.10.5:1228/stv.php?id=ten3_raj
-SPOTV 1 HD,http://10.10.10.5:1228/stv.php?id=go_spotv
-SPO TV 2,http://10.10.10.5:1228/stv.php?id=go_spotv2
-Skysports F1,http://10.10.10.5:1228/stv.php?id=tiankongf1
-Skysports Cricket,http://10.10.10.5:1228/stv.php?id=tiankongcricket
-Skysports EPL,http://10.10.10.5:1228/stv.php?id=tiankongepl
-Skysports Main Event,http://10.10.10.5:1228/stv.php?id=tiankongmain
-Skysports News,http://10.10.10.5:1228/stv.php?id=tiankongnews
-Skysports Mix,http://10.10.10.5:1228/stv.php?id=tiankongmix
-爱尔达体育2台,http://10.10.10.5:1228/stv.php?id=eltasport2_twn
-爱尔达体育3台,http://10.10.10.5:1228/stv.php?id=eltasport3_twn
-Rugby Pass TV,http://10.10.10.5:1228/stv.php?id=Rugbypasstv
-RTM Sports HD,http://10.10.10.5:1228/stv.php?id=Rtmsport
-Arena,http://10.10.10.5:1228/stv.php?id=Arena
-Arena 2,http://10.10.10.5:1228/stv.php?id=Arena2
-BolaArena 1,http://10.10.10.5:1228/stv.php?id=Bolaarena1
-BolaArena 2,http://10.10.10.5:1228/stv.php?id=Bolaarena2
-Astro Beinsports 1,http://10.10.10.5:1228/stv.php?id=Astrobein1
-Astro Beinsports 2,http://10.10.10.5:1228/stv.php?id=Astrobein2
-Astro Beinsports 3,http://10.10.10.5:1228/stv.php?id=Astrobein3
+
+香港频道,#genre#
+翡翠台,http://10.10.10.5:1228/stv.php?id=jade_twn
+翡翠台,http://10.10.10.5:1228/stv.php?id=Jade_xue
+iNews 新闻台,http://10.10.10.5:1228/stv.php?id=inews_twn
+J 2,http://10.10.10.5:1228/stv.php?id=j2_twn
+珍珠台,http://10.10.10.5:1228/stv.php?id=pearl_twn
+凤凰香港,http://10.10.10.5:1228/stv.php?id=hkphoenix_twn
+HOY资讯台,http://10.10.10.5:1228/stv.php?id=hoycaijing_twn
+RHK 31,http://10.10.10.5:1228/stv.php?id=rhk31_twn
+viutv,http://10.10.10.5:1228/stv.php?id=viu1_twn
+RHK 32,http://10.10.10.5:1228/stv.php?id=rhk32_twn
+凤凰资讯,http://10.10.10.5:1228/stv.php?id=phoenixinfo_hd
+viutv6,http://10.10.10.5:1228/stv.php?id=viusix_twn
+
 台湾频道,#genre#
 TVBS News 新闻台,http://10.10.10.5:1228/stv.php?id=tvbs_n
 TVBS 欢乐台 备份,http://10.10.10.5:1228/stv.php?id=tvbshuanle_twn
@@ -152,6 +109,7 @@ EYETV 戏剧,http://10.10.10.5:1228/stv.php?id=eyetvxiju_twn
 爱尔达综合台,http://10.10.10.5:1228/stv.php?id=eltazonghe_twn
 星卫电影,http://10.10.10.5:1228/stv.php?id=xingwei_movie
 AFC 亚洲旅游台,http://10.10.10.5:1228/stv.php?id=asiatravel_twn
+
 电影频道,#genre#
 HBOHITS,http://10.10.10.5:1228/stv.php?id=hbohit_twn
 Cinemax,http://10.10.10.5:1228/stv.php?id=Cinemax
@@ -177,6 +135,7 @@ Paramount Network,http://10.10.10.5:1228/stv.php?id=Paramountnetwork
 Astrol Kplus,http://10.10.10.5:1228/stv.php?id=Kplus
 Rock Actions,http://10.10.10.5:1228/stv.php?id=Rockaction
 Rock Entertainment,http://10.10.10.5:1228/stv.php?id=Rockentertain
+
 纪录频道,#genre#
 NatgeoHD,http://10.10.10.5:1228/stv.php?id=natgeohd_twn
 NatGeoWild HD,http://10.10.10.5:1228/stv.php?id=natgeowild_twn
@@ -194,6 +153,7 @@ Animal Planet Eng,http://10.10.10.5:1228/stv.php?id=AnimalPlanet
 TLC,http://10.10.10.5:1228/stv.php?id=Tlc
 Foodnetwork Hd,http://10.10.10.5:1228/stv.php?id=Foodnetwork
 HGTV,http://10.10.10.5:1228/stv.php?id=HGTV
+
 新闻频道,#genre#
 Skynews,http://10.10.10.5:1228/stv.php?id=skynews_twn
 ABC News,http://10.10.10.5:1228/stv.php?id=abcnews_glo
@@ -212,15 +172,7 @@ BBC World News,http://10.10.10.5:1228/stv.php?id=bbcnews_twn
 BBC World News,http://10.10.10.5:1228/stv.php?id=Bbcnews
 Bloomberg News,http://10.10.10.5:1228/stv.php?id=bloomberg_twn
 Al-Jazeera,http://10.10.10.5:1228/stv.php?id=aljazeera_twn
-儿童频道,#genre#
-Baby TV Eng,http://10.10.10.5:1228/stv.php?id=Babytv
-CBeebies,http://10.10.10.5:1228/stv.php?id=Cbeebies
-Kids TV,http://10.10.10.5:1228/stv.php?id=KidsTV
-Momo TV,http://10.10.10.5:1228/stv.php?id=momo1_twn
-MiaoMi,http://10.10.10.5:1228/stv.php?id=MiaoMi
-Cartoon Network,http://10.10.10.5:1228/stv.php?id=Cn
-Nickelodeon,http://10.10.10.5:1228/stv.php?id=Nickelodeon
-Nick Jr,http://10.10.10.5:1228/stv.php?id=Nickjr
+
 新加坡频道,#genre#
 Channel 5,http://10.10.10.5:1228/stv.php?id=Channel5HD
 Channel 8,http://10.10.10.5:1228/stv.php?id=Channel8HD
@@ -234,6 +186,7 @@ MeWatch Ch U,http://10.10.10.5:1228/stv.php?id=Mewatch_chU
 MeWatch Suria,http://10.10.10.5:1228/stv.php?id=Mewatch_Suria
 MeWatch Vasantham,http://10.10.10.5:1228/stv.php?id=Mewatch_Vasantham
 MeWatch CNA,http://10.10.10.5:1228/stv.php?id=Mewatch_cna
+
 马来西亚频道,#genre#
 TV1,http://10.10.10.5:1228/stv.php?id=TV1
 TV1,http://10.10.10.5:1228/stv.php?id=TV1_backup
@@ -286,6 +239,7 @@ Astro LOL,http://10.10.10.5:1228/stv.php?id=Astro_lol
 Astro Rusi,http://10.10.10.5:1228/stv.php?id=Rusi
 WION,http://10.10.10.5:1228/stv.php?id=Wion
 RTM Asean,http://10.10.10.5:1228/stv.php?id=Rtmasean
+
 印尼频道,#genre#
 TVRI National,http://10.10.10.5:1228/stv.php?id=TVRI
 RCTI,http://10.10.10.5:1228/stv.php?id=Rcti
@@ -313,6 +267,7 @@ Vision Prime,http://10.10.10.5:1228/stv.php?id=VisionPrime
 Muslim TV,http://10.10.10.5:1228/stv.php?id=MuslimTV
 Music TV,http://10.10.10.5:1228/stv.php?id=MusicTV
 LifestyleFashion,http://10.10.10.5:1228/stv.php?id=Lifestyle
+
 印度频道,#genre#
 Sun TV HD,http://10.10.10.5:1228/stv.php?id=Suntv
 Star Vijay,http://10.10.10.5:1228/stv.php?id=Starvijay
@@ -347,6 +302,7 @@ Starmaa Movies HD,http://10.10.10.5:1228/stv.php?id=starmaamovies_raj
 Bollyone,http://10.10.10.5:1228/stv.php?id=Bollyone
 Vijay Super,http://10.10.10.5:1228/stv.php?id=vijaysuper_raj
 Vellithirai,http://10.10.10.5:1228/stv.php?id=Vellithirai
+
 泰国频道,#genre#
 Channel 3 Thailand,http://10.10.10.5:1228/stv.php?id=ch3_pat
 Channel 5 Thailand,http://10.10.10.5:1228/stv.php?id=ch5_pat
@@ -367,6 +323,7 @@ Tnn24,http://10.10.10.5:1228/stv.php?id=tnn24_pat
 Nbt,http://10.10.10.5:1228/stv.php?id=nbt_pat
 New,http://10.10.10.5:1228/stv.php?id=new_pat
 TPTV,http://10.10.10.5:1228/stv.php?id=tptv_pat
+
 英国频道,#genre#
 BBC 1,http://10.10.10.5:1228/stv.php?id=bbc1_antik
 BBC 2,http://10.10.10.5:1228/stv.php?id=bbc2_antik
@@ -379,3 +336,59 @@ itv 2,http://10.10.10.5:1228/stv.php?id=itv2_antik
 Euronews,http://10.10.10.5:1228/stv.php?id=euronews_antik
 Channel 4,http://10.10.10.5:1228/stv.php?id=channel4_antik
 BBC World News,http://10.10.10.5:1228/stv.php?id=bbcworldnews_antik
+
+体育频道,#genre#
+Astro Premier League 1,http://10.10.10.5:1228/stv.php?id=go_assp1
+Astro EPL 1,http://10.10.10.5:1228/stv.php?id=go_assp1x
+Astro Premier League 2,http://10.10.10.5:1228/stv.php?id=go_assp2
+Astro Grandstand,http://10.10.10.5:1228/stv.php?id=go_assp3
+Astro Football,http://10.10.10.5:1228/stv.php?id=go_assp4
+Astro Sports Plus,http://10.10.10.5:1228/stv.php?id=go_sportsplus
+Astro Badminton 1,http://10.10.10.5:1228/stv.php?id=go_badminton1
+Astro Badminton 2,http://10.10.10.5:1228/stv.php?id=go_badminton2
+Astro W-Sports,http://10.10.10.5:1228/stv.php?id=go_assp5
+Supersports 1,http://10.10.10.5:1228/stv.php?id=Assp1
+Supersports 2,http://10.10.10.5:1228/stv.php?id=Assp2
+Supersports 3,http://10.10.10.5:1228/stv.php?id=Assp3
+Supersports 4,http://10.10.10.5:1228/stv.php?id=Assp4
+WWE,http://10.10.10.5:1228/stv.php?id=Wwe
+Fight Sports,http://10.10.10.5:1228/stv.php?id=Fs
+NBA TV,http://10.10.10.5:1228/stv.php?id=Nba
+Astro Cricket,http://10.10.10.5:1228/stv.php?id=Acricket
+Astro Golf,http://10.10.10.5:1228/stv.php?id=Agolf
+Tnt Sports 1,http://10.10.10.5:1228/stv.php?id=6fac0aaead
+TNT Sports 2,http://10.10.10.5:1228/stv.php?id=d9a76a79cc
+TNT Sports 3,http://10.10.10.5:1228/stv.php?id=5fea4d73db
+TNT Sports 4,http://10.10.10.5:1228/stv.php?id=tntsport4
+Sony Ten 1,http://10.10.10.5:1228/stv.php?id=ten1_raj
+Sony Ten 2,http://10.10.10.5:1228/stv.php?id=ten2_raj
+Sony Ten 3,http://10.10.10.5:1228/stv.php?id=ten3_raj
+SPOTV 1 HD,http://10.10.10.5:1228/stv.php?id=go_spotv
+SPO TV 2,http://10.10.10.5:1228/stv.php?id=go_spotv2
+Skysports F1,http://10.10.10.5:1228/stv.php?id=tiankongf1
+Skysports Cricket,http://10.10.10.5:1228/stv.php?id=tiankongcricket
+Skysports EPL,http://10.10.10.5:1228/stv.php?id=tiankongepl
+Skysports Main Event,http://10.10.10.5:1228/stv.php?id=tiankongmain
+Skysports News,http://10.10.10.5:1228/stv.php?id=tiankongnews
+Skysports Mix,http://10.10.10.5:1228/stv.php?id=tiankongmix
+爱尔达体育2台,http://10.10.10.5:1228/stv.php?id=eltasport2_twn
+爱尔达体育3台,http://10.10.10.5:1228/stv.php?id=eltasport3_twn
+Rugby Pass TV,http://10.10.10.5:1228/stv.php?id=Rugbypasstv
+RTM Sports HD,http://10.10.10.5:1228/stv.php?id=Rtmsport
+Arena,http://10.10.10.5:1228/stv.php?id=Arena
+Arena 2,http://10.10.10.5:1228/stv.php?id=Arena2
+BolaArena 1,http://10.10.10.5:1228/stv.php?id=Bolaarena1
+BolaArena 2,http://10.10.10.5:1228/stv.php?id=Bolaarena2
+Astro Beinsports 1,http://10.10.10.5:1228/stv.php?id=Astrobein1
+Astro Beinsports 2,http://10.10.10.5:1228/stv.php?id=Astrobein2
+Astro Beinsports 3,http://10.10.10.5:1228/stv.php?id=Astrobein3
+
+儿童频道,#genre#
+Baby TV Eng,http://10.10.10.5:1228/stv.php?id=Babytv
+CBeebies,http://10.10.10.5:1228/stv.php?id=Cbeebies
+Kids TV,http://10.10.10.5:1228/stv.php?id=KidsTV
+Momo TV,http://10.10.10.5:1228/stv.php?id=momo1_twn
+MiaoMi,http://10.10.10.5:1228/stv.php?id=MiaoMi
+Cartoon Network,http://10.10.10.5:1228/stv.php?id=Cn
+Nickelodeon,http://10.10.10.5:1228/stv.php?id=Nickelodeon
+Nick Jr,http://10.10.10.5:1228/stv.php?id=Nickjr
