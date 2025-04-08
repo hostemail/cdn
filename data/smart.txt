@@ -7,11 +7,11 @@ J 2,id=j2_twn
 凤凰香港,id=hkphoenix_twn  
 HOY资讯台,id=hoycaijing_twn  
 RHK 31,id=rhk31_twn  
-VIUTV1,id=viu1_twn  
+viutv,id=viu1_twn  
 RHK 32,id=rhk32_twn  
 凤凰卫视,id=phoenixtv_hd  
 凤凰资讯,id=phoenixinfo_hd  
-Viu6,id=viusix_twn  
+viutv6,id=viusix_twn  
 
 央视频道,#genre#  
 CCTV-1 综合 HD,id=cctv1  
