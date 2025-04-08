@@ -1,21 +1,21 @@
 央视频道,#genre#
-CCTV-1 综合频道 HD,http://10.10.10.5:1228/stv.php?id=cctv1
-CCTV-2 财经频道,http://10.10.10.5:1228/stv.php?id=cctv2
-CCTV-3 综艺频道,http://10.10.10.5:1228/stv.php?id=cctv3
+CCTV-1 综合 HD,http://10.10.10.5:1228/stv.php?id=cctv1
+CCTV-2 财经,http://10.10.10.5:1228/stv.php?id=cctv2
+CCTV-3 综艺,http://10.10.10.5:1228/stv.php?id=cctv3
 CCTV-4 中文国际,http://10.10.10.5:1228/stv.php?id=cctv4
-CCTV-4 新闻频道,http://10.10.10.5:1228/stv.php?id=Cctv4
-CCTV-5 体育频道,http://10.10.10.5:1228/stv.php?id=cctv5
+CCTV-4 新闻,http://10.10.10.5:1228/stv.php?id=Cctv4
+CCTV-5 体育,http://10.10.10.5:1228/stv.php?id=cctv5
 CCTV-5+ 体育赛事 HD,http://10.10.10.5:1228/stv.php?id=cctv5plus
-CCTV-6 电影频道,http://10.10.10.5:1228/stv.php?id=cctv6
-CCTV-7 军事农业频道,http://10.10.10.5:1228/stv.php?id=cctv7
+CCTV-6 电影,http://10.10.10.5:1228/stv.php?id=cctv6
+CCTV-7 军事农业,http://10.10.10.5:1228/stv.php?id=cctv7
 CCTV-8 电视剧 HD,http://10.10.10.5:1228/stv.php?id=cctv8hd
-CCTV-9 记录频道 HD,http://10.10.10.5:1228/stv.php?id=cctv9hd
-CCTV-10 科教频道 HD,http://10.10.10.5:1228/stv.php?id=cctv10hd
-CCTV-11 戏曲频道,http://10.10.10.5:1228/stv.php?id=cctv11
+CCTV-9 记录 HD,http://10.10.10.5:1228/stv.php?id=cctv9hd
+CCTV-10 科教 HD,http://10.10.10.5:1228/stv.php?id=cctv10hd
+CCTV-11 戏曲,http://10.10.10.5:1228/stv.php?id=cctv11
 CCTV-12 社会与法,http://10.10.10.5:1228/stv.php?id=cctv12
-CCTV-13 新闻频道,http://10.10.10.5:1228/stv.php?id=cctv13
-CCTV-14 少儿频道,http://10.10.10.5:1228/stv.php?id=cctv14
-CCTV-15 音乐频道,http://10.10.10.5:1228/stv.php?id=cctv15
+CCTV-13 新闻,http://10.10.10.5:1228/stv.php?id=cctv13
+CCTV-14 少儿,http://10.10.10.5:1228/stv.php?id=cctv14
+CCTV-15 音乐,http://10.10.10.5:1228/stv.php?id=cctv15
 
 香港频道,#genre#
 翡翠台,http://10.10.10.5:1228/stv.php?id=jade_twn
