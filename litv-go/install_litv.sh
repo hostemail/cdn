@@ -1,5 +1,5 @@
 #!/bin/bash
-# 支持标准linux/群晖/OpenWRT/玩客云的安装脚本
+# 支持标准Linux/OpenWRT的安装脚本 (ARMv7/ARM64/AMD64)
 
 # 配置变量
 CDN_BASE="https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv"
@@ -8,12 +8,8 @@ LOG_DIR="/var/log/litv-go"
 
 # 检测系统类型
 detect_os() {
-    if grep -q "Synology" /etc/os-release; then
-        echo "synology"
-    elif [ -f "/etc/openwrt_release" ]; then
+    if [ -f "/etc/openwrt_release" ]; then
         echo "openwrt"
-    elif uname -m | grep -q "armv7"; then
-        echo "armv7" # 玩客云等ARM设备
     else
         echo "linux"
     fi
@@ -22,11 +18,6 @@ OS_TYPE=$(detect_os)
 
 # 系统专用配置
 case "$OS_TYPE" in
-    "synology")
-        INSTALL_DIR="/var/packages/$BIN_NAME/target"
-        CONFIG_DIR="/var/packages/$BIN_NAME/etc"
-        SERVICE_CMD="synoservice --restart"
-        ;;
     "openwrt")
         INSTALL_DIR="/usr/bin"
         CONFIG_DIR="/etc/$BIN_NAME"
@@ -42,11 +33,6 @@ esac
 # 安装依赖
 install_deps() {
     case "$OS_TYPE" in
-        "synology")
-            if ! command -v curl &>/dev/null; then
-                sudo ipkg install curl
-            fi
-            ;;
         "openwrt")
             opkg update && opkg install curl ca-certificates
             ;;
@@ -78,13 +64,13 @@ install_app() {
     # 创建目录
     sudo mkdir -p "$INSTALL_DIR" "$CONFIG_DIR" "$LOG_DIR"
 
-    # 下载二进制
+    # 下载二进制（支持ARMv7/ARM64/AMD64）
     ARCH=$(uname -m)
     case "$ARCH" in
         "x86_64") BIN_SUFFIX="amd64" ;;
         "aarch64") BIN_SUFFIX="arm64" ;;
-        "armv7l") BIN_SUFFIX="arm" ;;
-        *) echo "Unsupported arch: $ARCH"; exit 1 ;;
+        "armv7l") BIN_SUFFIX="armv7" ;;
+        *) echo "不支持的架构: $ARCH"; exit 1 ;;
     esac
     download_file "$CDN_BASE/litv-go-linux-$BIN_SUFFIX" "$INSTALL_DIR/$BIN_NAME" || exit 1
     chmod +x "$INSTALL_DIR/$BIN_NAME"
@@ -96,12 +82,6 @@ install_app() {
 
     # 配置服务
     case "$OS_TYPE" in
-        "synology")
-            cat > /etc/init/$BIN_NAME.conf <<EOF
-start on started network
-exec $INSTALL_DIR/$BIN_NAME
-EOF
-            ;;
         "openwrt")
             cat > /etc/init.d/$BIN_NAME <<EOF
 #!/bin/sh /etc/rc.common
@@ -128,6 +108,9 @@ After=network.target
 [Service]
 ExecStart=$INSTALL_DIR/$BIN_NAME
 Restart=always
+EnvironmentFile=-$CONFIG_DIR/litv-go.conf
+StandardOutput=file:$LOG_DIR/output.log
+StandardError=file:$LOG_DIR/error.log
 
 [Install]
 WantedBy=multi-user.target
@@ -140,4 +123,6 @@ EOF
 # 执行安装
 install_deps
 install_app
-echo "Install complete! Run: $SERVICE_CMD"
+echo "安装完成！执行以下命令管理服务："
+echo "启动: $SERVICE_CMD"
+echo "查看日志: journalctl -u $BIN_NAME -f"
