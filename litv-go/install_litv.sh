@@ -1,8 +1,8 @@
 #!/bin/bash
-# 支持群晖/OpenWRT/玩客云的安装脚本
+# 支持标准linux/群晖/OpenWRT/玩客云的安装脚本
 
 # 配置变量
-CDN_BASE="https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv-go"
+CDN_BASE="https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv"
 BIN_NAME="litv-go"
 LOG_DIR="/var/log/litv-go"
 
