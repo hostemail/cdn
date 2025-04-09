@@ -11,12 +11,12 @@
 ### 方法一：原生二进制安装
 #### 一键安装（自动识别系统）
 ```bash
-sudo curl -sSL https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv/install_litv.sh | bash
+sudo curl -sSL https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv-go/install_litv.sh | bash
 ```
 
 #### 手动安装
 ```bash
-wget https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv/install_litv.sh
+wget https://cdn.jsdelivr.net/gh/hostemail/cdn@main/litv-go/install_litv.sh
 chmod +x install_litv.sh
 sudo ./install_litv.sh
 ```
