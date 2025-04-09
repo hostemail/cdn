@@ -3,7 +3,7 @@
 ## 📦 支持平台
 | 部署方式       | 支持系统                 | 管理方式          |
 |----------------|--------------------------|-------------------|
-| 原生二进制      | 群晖DSM/OpenWRT/玩客云   | systemd/synoservice |
+| 原生二进制      |通用Linux AMD64/ARM64/ARMV7，群晖DSM/OpenWRT/玩客云   | systemd/synoservice |
 | Docker 容器    | 所有支持Docker的系统     | docker命令        |
 
 ## 🚀 快速开始
