@@ -1,6 +1,5 @@
 [
     {
-        "id": "0001",
         "tvg-id": "4gtv-4gtv009",
         "tvg-name": "中天新闻",
         "tvg-logo": "https://logo.doube.eu.org/中天新闻.png",
@@ -11,7 +10,6 @@
         "audioParams": 7
     },
     {
-        "id": "0002",
         "tvg-id": "4gtv-4gtv072",
         "tvg-name": "TVBS新闻",
         "tvg-logo": "https://logo.doube.eu.org/TVBS新闻.png",
@@ -22,7 +20,6 @@
         "audioParams": 2
     },
     {
-        "id": "0003",
         "tvg-id": "4gtv-4gtv152",
         "tvg-name": "东森新闻台",
         "tvg-logo": "https://logo.doube.eu.org/东森新闻台.png",
@@ -33,7 +30,6 @@
         "audioParams": 6
     },
     {
-        "id": "0004",
         "tvg-id": "litv-ftv13",
         "tvg-name": "民视新闻台",
         "tvg-logo": "https://logo.doube.eu.org/民视新闻台.png",
@@ -44,7 +40,6 @@
         "audioParams": 7
     },
     {
-        "id": "0005",
         "tvg-id": "4gtv-4gtv075",
         "tvg-name": "镜电视新闻台",
         "tvg-logo": "https://logo.doube.eu.org/镜电视新闻台.png",
@@ -55,7 +50,6 @@
         "audioParams": 2
     },
     {
-        "id": "0006",
         "tvg-id": "4gtv-4gtv010",
         "tvg-name": "非凡新闻",
         "tvg-logo": "https://logo.doube.eu.org/非凡新闻.png",
@@ -66,7 +60,6 @@
         "audioParams": 6
     },
     {
-        "id": "0007",
         "tvg-id": "4gtv-4gtv051",
         "tvg-name": "台视新闻台",
         "tvg-logo": "https://logo.doube.eu.org/台视新闻台.png",
@@ -77,7 +70,6 @@
         "audioParams": 2
     },
     {
-        "id": "0008",
         "tvg-id": "4gtv-4gtv052",
         "tvg-name": "华视新闻",
         "tvg-logo": "https://logo.doube.eu.org/华视新闻.png",
@@ -88,7 +80,6 @@
         "audioParams": 2
     },
     {
-        "id": "0009",
         "tvg-id": "4gtv-4gtv074",
         "tvg-name": "中视新闻台",
         "tvg-logo": "https://logo.doube.eu.org/中视新闻台.png",
@@ -99,7 +90,6 @@
         "audioParams": 2
     },
     {
-        "id": "0010",
         "tvg-id": "litv-longturn14",
         "tvg-name": "寰宇新闻台",
         "tvg-logo": "https://logo.doube.eu.org/寰宇新闻台.png",
@@ -110,7 +100,6 @@
         "audioParams": 2
     },
     {
-        "id": "0011",
         "tvg-id": "4gtv-4gtv156",
         "tvg-name": "寰宇新闻台湾台",
         "tvg-logo": "https://logo.doube.eu.org/寰宇新闻台湾台.png",
@@ -121,7 +110,6 @@
         "audioParams": 6
     },
     {
-        "id": "0012",
         "tvg-id": "litv-ftv10",
         "tvg-name": "半岛国际新闻",
         "tvg-logo": "https://logo.doube.eu.org/半岛国际新闻.png",
@@ -132,7 +120,6 @@
         "audioParams": 7
     },
     {
-        "id": "0013",
         "tvg-id": "litv-ftv03",
         "tvg-name": "美国之音",
         "tvg-logo": "https://logo.doube.eu.org/美国之音.png",
@@ -143,7 +130,6 @@
         "audioParams": 7
     },
     {
-        "id": "0014",
         "tvg-id": "4gtv-4gtv153",
         "tvg-name": "东森财经新闻台",
         "tvg-logo": "https://logo.doube.eu.org/东森财经新闻台.png",
@@ -154,7 +140,6 @@
         "audioParams": 2
     },
     {
-        "id": "0015",
         "tvg-id": "4gtv-4gtv048",
         "tvg-name": "非凡商业",
         "tvg-logo": "https://logo.doube.eu.org/非凡商业.png",
@@ -165,7 +150,6 @@
         "audioParams": 2
     },
     {
-        "id": "0016",
         "tvg-id": "4gtv-4gtv056",
         "tvg-name": "台视财经台",
         "tvg-logo": "https://logo.doube.eu.org/台视财经台.png",
@@ -176,7 +160,6 @@
         "audioParams": 2
     },
     {
-        "id": "0017",
         "tvg-id": "4gtv-4gtv104",
         "tvg-name": "第1商业台",
         "tvg-logo": "https://logo.doube.eu.org/第1商业台.png",
@@ -187,7 +170,6 @@
         "audioParams": 7
     },
     {
-        "id": "0018",
         "tvg-id": "4gtv-4gtv073",
         "tvg-name": "TVBS",
         "tvg-logo": "https://logo.doube.eu.org/TVBS.png",
@@ -198,7 +180,6 @@
         "audioParams": 2
     },
     {
-        "id": "0019",
         "tvg-id": "4gtv-4gtv066",
         "tvg-name": "台视",
         "tvg-logo": "https://logo.doube.eu.org/台视.png",
@@ -209,7 +190,6 @@
         "audioParams": 2
     },
     {
-        "id": "0020",
         "tvg-id": "4gtv-4gtv040",
         "tvg-name": "中视",
         "tvg-logo": "https://logo.doube.eu.org/中视.png",
@@ -220,7 +200,6 @@
         "audioParams": 6
     },
     {
-        "id": "0021",
         "tvg-id": "4gtv-4gtv041",
         "tvg-name": "华视",
         "tvg-logo": "https://logo.doube.eu.org/华视.png",
@@ -231,7 +210,6 @@
         "audioParams": 6
     },
     {
-        "id": "0022",
         "tvg-id": "4gtv-4gtv002",
         "tvg-name": "民视",
         "tvg-logo": "https://logo.doube.eu.org/民视.png",
@@ -242,7 +220,6 @@
         "audioParams": 10
     },
     {
-        "id": "0023",
         "tvg-id": "4gtv-4gtv155",
         "tvg-name": "民视",
         "tvg-logo": "https://logo.doube.eu.org/民视.png",
@@ -253,7 +230,6 @@
         "audioParams": 6
     },
     {
-        "id": "0024",
         "tvg-id": "4gtv-4gtv001",
         "tvg-name": "民视台湾台",
         "tvg-logo": "https://logo.doube.eu.org/民视台湾台.png",
@@ -264,7 +240,6 @@
         "audioParams": 6
     },
     {
-        "id": "0025",
         "tvg-id": "4gtv-4gtv003",
         "tvg-name": "民视第一台",
         "tvg-logo": "https://logo.doube.eu.org/民视第一台.png",
@@ -275,7 +250,6 @@
         "audioParams": 6
     },
     {
-        "id": "0026",
         "tvg-id": "4gtv-4gtv109",
         "tvg-name": "中天亚洲",
         "tvg-logo": "https://logo.doube.eu.org/中天亚洲.png",
@@ -286,7 +260,6 @@
         "audioParams": 7
     },
     {
-        "id": "0027",
         "tvg-id": "4gtv-4gtv046",
         "tvg-name": "靖天综合台",
         "tvg-logo": "https://logo.doube.eu.org/靖天综合台.png",
@@ -297,7 +270,6 @@
         "audioParams": 8
     },
     {
-        "id": "0028",
         "tvg-id": "4gtv-4gtv063",
         "tvg-name": "靖天国际台",
         "tvg-logo": "https://logo.doube.eu.org/靖天国际台.png",
@@ -308,7 +280,6 @@
         "audioParams": 6
     },
     {
-        "id": "0029",
         "tvg-id": "4gtv-4gtv065",
         "tvg-name": "靖天资讯台",
         "tvg-logo": "https://logo.doube.eu.org/靖天资讯台.png",
@@ -319,7 +290,6 @@
         "audioParams": 8
     },
     {
-        "id": "0030",
         "tvg-id": "4gtv-4gtv043",
         "tvg-name": "客家电视台",
         "tvg-logo": "https://logo.doube.eu.org/客家电视台.png",
@@ -330,7 +300,6 @@
         "audioParams": 6
     },
     {
-        "id": "0031",
         "tvg-id": "4gtv-4gtv079",
         "tvg-name": "ARIRANG",
         "tvg-logo": "https://logo.doube.eu.org/ARIRANG.png",
@@ -341,7 +310,6 @@
         "audioParams": 2
     },
     {
-        "id": "0032",
         "tvg-id": "4gtv-4gtv084",
         "tvg-name": "国会频道1",
         "tvg-logo": "https://logo.doube.eu.org/国会频道1.png",
@@ -352,7 +320,6 @@
         "audioParams": 6
     },
     {
-        "id": "0033",
         "tvg-id": "4gtv-4gtv085",
         "tvg-name": "国会频道2",
         "tvg-logo": "https://logo.doube.eu.org/国会频道2.png",
@@ -363,7 +330,6 @@
         "audioParams": 5
     },
     {
-        "id": "0034",
         "tvg-id": "4gtv-4gtv068",
         "tvg-name": "TVBS欢乐台",
         "tvg-logo": "https://logo.doube.eu.org/TVBS欢乐台.png",
@@ -374,7 +340,6 @@
         "audioParams": 7
     },
     {
-        "id": "0035",
         "tvg-id": "4gtv-4gtv067",
         "tvg-name": "TVBS精采台",
         "tvg-logo": "https://logo.doube.eu.org/TVBS精采台.png",
@@ -385,7 +350,6 @@
         "audioParams": 8
     },
     {
-        "id": "0036",
         "tvg-id": "4gtv-4gtv070",
         "tvg-name": "ELTV娱乐",
         "tvg-logo": "https://logo.doube.eu.org/ELTV娱乐.png",
@@ -396,7 +360,6 @@
         "audioParams": 7
     },
     {
-        "id": "0037",
         "tvg-id": "4gtv-4gtv004",
         "tvg-name": "民视综艺台",
         "tvg-logo": "https://logo.doube.eu.org/民视综艺台.png",
@@ -407,7 +370,6 @@
         "audioParams": 8
     },
     {
-        "id": "0038",
         "tvg-id": "4gtv-4gtv039",
         "tvg-name": "八大综艺",
         "tvg-logo": "https://logo.doube.eu.org/八大综艺.png",
@@ -418,7 +380,6 @@
         "audioParams": 7
     },
     {
-        "id": "0039",
         "tvg-id": "4gtv-4gtv034",
         "tvg-name": "八大精彩",
         "tvg-logo": "https://logo.doube.eu.org/八大精彩.png",
@@ -429,7 +390,6 @@
         "audioParams": 6
     },
     {
-        "id": "0040",
         "tvg-id": "4gtv-4gtv054",
         "tvg-name": "靖天欢乐台",
         "tvg-logo": "https://logo.doube.eu.org/靖天欢乐台.png",
@@ -440,7 +400,6 @@
         "audioParams": 8
     },
     {
-        "id": "0041",
         "tvg-id": "4gtv-4gtv062",
         "tvg-name": "靖天育乐台",
         "tvg-logo": "https://logo.doube.eu.org/靖天育乐台.png",
@@ -451,7 +410,6 @@
         "audioParams": 8
     },
     {
-        "id": "0042",
         "tvg-id": "4gtv-4gtv064",
         "tvg-name": "中视菁采台",
         "tvg-logo": "https://logo.doube.eu.org/中视菁采台.png",
@@ -462,7 +420,6 @@
         "audioParams": 8
     },
     {
-        "id": "0043",
         "tvg-id": "4gtv-4gtv006",
         "tvg-name": "猪哥亮歌厅秀",
         "tvg-logo": "https://logo.doube.eu.org/猪哥亮歌厅秀.png",
@@ -473,7 +430,6 @@
         "audioParams": 9
     },
     {
-        "id": "0044",
         "tvg-id": "4gtv-4gtv011",
         "tvg-name": "影迷数位电影台",
         "tvg-logo": "https://logo.doube.eu.org/影迷数位电影台.png",
@@ -484,7 +440,6 @@
         "audioParams": 6
     },
     {
-        "id": "0045",
         "tvg-id": "4gtv-4gtv017",
         "tvg-name": "amc电影台",
         "tvg-logo": "https://logo.doube.eu.org/amc电影台.png",
@@ -495,7 +450,6 @@
         "audioParams": 6
     },
     {
-        "id": "0046",
         "tvg-id": "4gtv-4gtv061",
         "tvg-name": "靖天电影台",
         "tvg-logo": "https://logo.doube.eu.org/靖天电影台.png",
@@ -506,7 +460,6 @@
         "audioParams": 7
     },
     {
-        "id": "0047",
         "tvg-id": "4gtv-4gtv055",
         "tvg-name": "靖天映画",
         "tvg-logo": "https://logo.doube.eu.org/靖天映画.png",
@@ -517,7 +470,6 @@
         "audioParams": 8
     },
     {
-        "id": "0048",
         "tvg-id": "4gtv-4gtv049",
         "tvg-name": "采昌影剧台",
         "tvg-logo": "https://logo.doube.eu.org/采昌影剧台.png",
@@ -528,7 +480,6 @@
         "audioParams": 8
     },
     {
-        "id": "0049",
         "tvg-id": "litv-ftv09",
         "tvg-name": "民视影剧台",
         "tvg-logo": "https://logo.doube.eu.org/民视影剧台.png",
@@ -539,7 +490,6 @@
         "audioParams": 2
     },
     {
-        "id": "0050",
         "tvg-id": "litv-longturn03",
         "tvg-name": "龙华电影台",
         "tvg-logo": "https://logo.doube.eu.org/龙华电影台.png",
@@ -550,7 +500,6 @@
         "audioParams": 6
     },
     {
-        "id": "0051",
         "tvg-id": "litv-longturn02",
         "tvg-name": "龙华洋片台",
         "tvg-logo": "https://logo.doube.eu.org/龙华洋片台.png",
@@ -561,7 +510,6 @@
         "audioParams": 2
     },
     {
-        "id": "0052",
         "tvg-id": "4gtv-4gtv042",
         "tvg-name": "公视戏剧",
         "tvg-logo": "https://logo.doube.eu.org/公视戏剧.png",
@@ -572,7 +520,6 @@
         "audioParams": 6
     },
     {
-        "id": "0053",
         "tvg-id": "4gtv-4gtv045",
         "tvg-name": "靖洋戏剧台",
         "tvg-logo": "https://logo.doube.eu.org/靖洋戏剧台.png",
@@ -583,7 +530,6 @@
         "audioParams": 6
     },
     {
-        "id": "0054",
         "tvg-id": "4gtv-4gtv058",
         "tvg-name": "靖天戏剧台",
         "tvg-logo": "https://logo.doube.eu.org/靖天戏剧台.png",
@@ -594,7 +540,6 @@
         "audioParams": 8
     },
     {
-        "id": "0055",
         "tvg-id": "4gtv-4gtv080",
         "tvg-name": "中视经典台",
         "tvg-logo": "https://logo.doube.eu.org/中视经典台.png",
@@ -605,7 +550,6 @@
         "audioParams": 6
     },
     {
-        "id": "0056",
         "tvg-id": "4gtv-4gtv047",
         "tvg-name": "靖天日本台",
         "tvg-logo": "https://logo.doube.eu.org/靖天日本台.png",
@@ -616,7 +560,6 @@
         "audioParams": 8
     },
     {
-        "id": "0057",
         "tvg-id": "litv-longturn18",
         "tvg-name": "龙华戏剧台",
         "tvg-logo": "https://logo.doube.eu.org/龙华戏剧台.png",
@@ -627,7 +570,6 @@
         "audioParams": 6
     },
     {
-        "id": "0058",
         "tvg-id": "litv-longturn11",
         "tvg-name": "龙华日韩台",
         "tvg-logo": "https://logo.doube.eu.org/龙华日韩台.png",
@@ -638,7 +580,6 @@
         "audioParams": 2
     },
     {
-        "id": "0059",
         "tvg-id": "litv-longturn12",
         "tvg-name": "龙华偶像台",
         "tvg-logo": "https://logo.doube.eu.org/龙华偶像台.png",
@@ -649,7 +590,6 @@
         "audioParams": 2
     },
     {
-        "id": "0060",
         "tvg-id": "litv-longturn21",
         "tvg-name": "龙华经典台",
         "tvg-logo": "https://logo.doube.eu.org/龙华经典台.png",
@@ -660,7 +600,6 @@
         "audioParams": 2
     },
     {
-        "id": "0061",
         "tvg-id": "litv-longturn22",
         "tvg-name": "台湾戏剧台",
         "tvg-logo": "https://logo.doube.eu.org/台湾戏剧台.png",
@@ -671,7 +610,6 @@
         "audioParams": 2
     },
     {
-        "id": "0062",
         "tvg-id": "4gtv-4gtv014",
         "tvg-name": "时尚运动X",
         "tvg-logo": "https://logo.doube.eu.org/时尚运动X.png",
@@ -682,7 +620,6 @@
         "audioParams": 5
     },
     {
-        "id": "0063",
         "tvg-id": "4gtv-4gtv053",
         "tvg-name": "GINXEsportsTV",
         "tvg-logo": "https://logo.doube.eu.org/GINXEsportsTV.png",
@@ -693,7 +630,6 @@
         "audioParams": 8
     },
     {
-        "id": "0064",
         "tvg-id": "4gtv-4gtv101",
         "tvg-name": "智林体育台",
         "tvg-logo": "https://logo.doube.eu.org/智林体育台.png",
@@ -704,7 +640,6 @@
         "audioParams": 5
     },
     {
-        "id": "0065",
         "tvg-id": "litv-longturn04",
         "tvg-name": "博斯魅力",
         "tvg-logo": "https://logo.doube.eu.org/博斯魅力.png",
@@ -715,7 +650,6 @@
         "audioParams": 6
     },
     {
-        "id": "0066",
         "tvg-id": "litv-longturn05",
         "tvg-name": "博斯高球1",
         "tvg-logo": "https://logo.doube.eu.org/博斯高球1.png",
@@ -726,7 +660,6 @@
         "audioParams": 2
     },
     {
-        "id": "0067",
         "tvg-id": "litv-longturn06",
         "tvg-name": "博斯高球2",
         "tvg-logo": "https://logo.doube.eu.org/博斯高球2.png",
@@ -737,7 +670,6 @@
         "audioParams": 2
     },
     {
-        "id": "0068",
         "tvg-id": "litv-longturn07",
         "tvg-name": "博斯运动1",
         "tvg-logo": "https://logo.doube.eu.org/博斯运动1.png",
@@ -748,7 +680,6 @@
         "audioParams": 2
     },
     {
-        "id": "0069",
         "tvg-id": "litv-longturn08",
         "tvg-name": "博斯运动2",
         "tvg-logo": "https://logo.doube.eu.org/博斯运动2.png",
@@ -759,7 +690,6 @@
         "audioParams": 2
     },
     {
-        "id": "0070",
         "tvg-id": "litv-longturn09",
         "tvg-name": "博斯网球1",
         "tvg-logo": "https://logo.doube.eu.org/博斯网球1.png",
@@ -770,7 +700,6 @@
         "audioParams": 2
     },
     {
-        "id": "0071",
         "tvg-id": "litv-longturn10",
         "tvg-name": "博斯无限1",
         "tvg-logo": "https://logo.doube.eu.org/博斯无限1.png",
@@ -781,7 +710,6 @@
         "audioParams": 2
     },
     {
-        "id": "0072",
         "tvg-id": "litv-longturn13",
         "tvg-name": "博斯无限2",
         "tvg-logo": "https://logo.doube.eu.org/博斯无限2.png",
@@ -792,7 +720,6 @@
         "audioParams": 2
     },
     {
-        "id": "0073",
         "tvg-id": "4gtv-4gtv013",
         "tvg-name": "视纳华仁纪实",
         "tvg-logo": "https://logo.doube.eu.org/视纳华仁纪实.png",
@@ -803,7 +730,6 @@
         "audioParams": 6
     },
     {
-        "id": "0074",
         "tvg-id": "4gtv-4gtv016",
         "tvg-name": "Globetrotter",
         "tvg-logo": "https://logo.doube.eu.org/Globetrotter.png",
@@ -814,7 +740,6 @@
         "audioParams": 6
     },
     {
-        "id": "0075",
         "tvg-id": "4gtv-4gtv018",
         "tvg-name": "达文西频道",
         "tvg-logo": "https://logo.doube.eu.org/达文西频道.png",
@@ -825,7 +750,6 @@
         "audioParams": 6
     },
     {
-        "id": "0076",
         "tvg-id": "4gtv-4gtv076",
         "tvg-name": "亚洲旅游台",
         "tvg-logo": "https://logo.doube.eu.org/亚洲旅游台.png",
@@ -836,7 +760,6 @@
         "audioParams": 2
     },
     {
-        "id": "0077",
         "tvg-id": "litv-ftv07",
         "tvg-name": "民视旅游台",
         "tvg-logo": "https://logo.doube.eu.org/民视旅游台.png",
@@ -847,7 +770,6 @@
         "audioParams": 7
     },
     {
-        "id": "0078",
         "tvg-id": "litv-longturn19",
         "tvg-name": "Smart知识台",
         "tvg-logo": "https://logo.doube.eu.org/Smart知识台.png",
@@ -858,7 +780,6 @@
         "audioParams": 6
     },
     {
-        "id": "0079",
         "tvg-id": "4gtv-4gtv044",
         "tvg-name": "靖天卡通台",
         "tvg-logo": "https://logo.doube.eu.org/靖天卡通台.png",
@@ -869,7 +790,6 @@
         "audioParams": 8
     },
     {
-        "id": "0080",
         "tvg-id": "4gtv-4gtv057",
         "tvg-name": "靖洋卡通台",
         "tvg-logo": "https://logo.doube.eu.org/靖洋卡通台.png",
@@ -880,7 +800,6 @@
         "audioParams": 8
     },
     {
-        "id": "0081",
         "tvg-id": "litv-longturn01",
         "tvg-name": "龙华卡通台",
         "tvg-logo": "https://logo.doube.eu.org/龙华卡通台.png",
@@ -891,7 +810,6 @@
         "audioParams": 2
     },
     {
-        "id": "0082",
         "tvg-id": "4gtv-4gtv059",
         "tvg-name": "CLASSICA古典乐",
         "tvg-logo": "https://logo.doube.eu.org/CLASSICA古典乐.png",
@@ -902,7 +820,6 @@
         "audioParams": 6
     },
     {
-        "id": "0083",
         "tvg-id": "4gtv-4gtv082",
         "tvg-name": "TraceUrban",
         "tvg-logo": "https://logo.doube.eu.org/TraceUrban.png",
@@ -913,7 +830,6 @@
         "audioParams": 6
     },
     {
-        "id": "0084",
         "tvg-id": "4gtv-4gtv083",
         "tvg-name": "MezzoLiveHD",
         "tvg-logo": "https://logo.doube.eu.org/MezzoLiveHD.png",
@@ -924,7 +840,6 @@
         "audioParams": 6
     },
     {
-        "id": "0085",
         "tvg-id": "litv-ftv16",
         "tvg-name": "好消息1",
         "tvg-logo": "https://logo.doube.eu.org/好消息1.png",
@@ -935,7 +850,6 @@
         "audioParams": 2
     },
     {
-        "id": "0086",
         "tvg-id": "litv-ftv17",
         "tvg-name": "好消息2",
         "tvg-logo": "https://logo.doube.eu.org/好消息2.png",
@@ -946,7 +860,6 @@
         "audioParams": 2
     },
     {
-        "id": "0087",
         "tvg-id": "litv-longturn20",
         "tvg-name": "ELTV生活英语台",
         "tvg-logo": "https://logo.doube.eu.org/ELTV生活英语台.png",
