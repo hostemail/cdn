@@ -36,11 +36,8 @@
 ||minigame.qq.com.cn^
 ||wxgame.qq.com^
 ||wxgame.gtimg.com^
-||servicewechat.com^
-||weappcontent.com^
 ||gameland.qq.com^
-||qpic.cn^
-
+||h5game.qq.com^
 ##########################################
 # 网易游戏（NetEase Games）
 # 不屏蔽 163 / 126 等非游戏服务
