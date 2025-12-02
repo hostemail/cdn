@@ -1,0 +1,124 @@
+##########################################
+# 腾讯游戏（Tencent Games / WeGame）
+# 不影响 QQ / 微信 / 腾讯视频等非游戏服务
+##########################################
+
+||gamedl.qq.com^
+||dlied1.qq.com^
+||dlied2.qq.com^
+||dlied3.qq.com^
+||dlied4.qq.com^
+||dlied5.qq.com^
+||tgpa.qq.com^
+||tgp.qq.com^
+||cdn.tgp.qq.com^
+||wegame.com.cn^
+||wegame.gtimg.com^
+||gcloud.qq.com^
+||igamecj.com^
+||cmgamecn.com^
+||tencentgames.com^
+||tencent-gamerpub.com^
+||tcdnos.com^
+
+
+##########################################
+# 网易游戏（NetEase Games）
+# 不影响 163 邮箱 / 网易云音乐 / 新闻等服务
+##########################################
+
+||neteasegames.com^
+||neteasegame.com^
+||gslb.netease.com^
+||gslb.126.net^
+||img.neteasegames.com^
+||play.163.com^
+||reg.163.com^
+||yximgs.com^
+||game.163.com^
+
+
+##########################################
+# 哔哩哔哩游戏（Bilibili Games）
+# 不影响 bilibili 视频播放、社区等
+##########################################
+
+||biligame.com^
+||biligame.net^
+||game.bilibili.com^
+
+
+##########################################
+# 小米游戏中心（Mi Game Center）
+##########################################
+
+||migamecdn.com^
+||migame.net^
+||game.xiaomi.com^
+
+
+##########################################
+# 华为游戏中心（Huawei GameCenter）
+##########################################
+
+||gamecenter.huawei.com^
+||appgallery.cloud.huawei.com^
+
+
+##########################################
+# TapTap 游戏（TapTap）
+# 若只希望屏蔽游戏下载，可告诉我继续细化
+##########################################
+
+||taptapd.com^
+||taptap.com^
+||tapimg.com^
+
+
+##########################################
+# 完美世界游戏（Perfect World）
+##########################################
+
+||pwesports.cn^
+||pwrd.com^
+||wanmei.com^
+
+
+##########################################
+# Steam（游戏更新/启动封锁版）
+# 不影响商店浏览：store.steampowered.com
+##########################################
+
+||steamcontent.com^
+||steamcdn-a.akamaihd.net^
+||steampipe.steamcontent.com^
+||steamserver.net^
+||steamchina.com^
+||steamgames.com.cn^
+||steampowered.com.cn^
+||csgo.wmsj.cn^
+||dota2.wmsj.cn^
+||valvecdn.com^
+
+
+##########################################
+# 4399 游戏（Web / 客户端）
+##########################################
+
+||4399api.com^
+||4399.com^
+
+
+##########################################
+# 多益网络（Duoyi Games）
+##########################################
+
+||duoyigame.com^
+||duoyi.com^
+
+
+##########################################
+# 巨人网络（ZTGame）
+##########################################
+
+||ztgame.com^
